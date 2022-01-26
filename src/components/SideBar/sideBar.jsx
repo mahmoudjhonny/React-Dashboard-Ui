@@ -8,7 +8,7 @@ const Sidebar = () => {
                 <div className="sidebarMenu">
                     <h3 className="sidebarTitle">Dashboard</h3>
                     <ul className="sidebarList">
-                        <li className="sidebaritem">
+                        <li className="sidebaritem active">
                             <LineStyle className='sidebarIcon'/>
                             Home
                         </li>
