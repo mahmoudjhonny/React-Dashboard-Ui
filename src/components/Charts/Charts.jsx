@@ -3,7 +3,6 @@ import { LineChart, Line, XAxis, CartesianGrid, Tooltip, Legend, ResponsiveConta
 
 
 const Charts = (props) => {
-    console.log(props)
     return (
         <div className='chart'>
             <h3 className="chartTitle">{props.title}</h3>
