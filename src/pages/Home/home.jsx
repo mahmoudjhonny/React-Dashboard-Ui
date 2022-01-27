@@ -2,7 +2,7 @@ import Charts from '../../components/Charts/Charts';
 import Featuredinfo from '../../components/FeaturedInfo/FeaturedInfo';
 import './home.css'
 import {userData} from '../../testData'
-import {users} from '../../NewUser'
+import {users} from '../../testData'
 import Smwidget from '../../components/SmallWidgets/smWidget';
 import Lgwidget from '../../components/LargeWidgets/lgWidget';
 
